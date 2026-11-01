@@ -45,13 +45,6 @@ A estrutura final deve ficar assim:
 
 O mod funciona por LayeredFS; os arquivos originais do jogo não precisam ser alterados. Para desativá-lo, desmarque **PT-BR** nas propriedades do jogo.
 
-## Compatibilidade e revisão
-
-- Destinado exclusivamente à **v1.0.4**; não use na v2.0.1.
-- Tags dos textos, integridade dos arquivos e os 37 registros de textura foram conferidos.
-- A inicialização e o título traduzido foram testados no Eglantine. A revisão de todas as situações durante uma partida ainda está pendente; o crédito foi adicionado ao pacote, mas sua conferência final no jogo ficou pendente.
-- As 37 imagens são o lote identificado por OCR e revisão visual; isso não garante que todo texto desenhado existente no jogo esteja coberto.
-
 ## Integridade
 
 Confira o SHA-256 do ZIP em [SHA256SUMS.txt](SHA256SUMS.txt).
