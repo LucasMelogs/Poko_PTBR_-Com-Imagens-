@@ -1,0 +1,7 @@
+# Pacotes binarios sao publicados em Releases.
+*.zip
+*.BIN
+*.IDX
+*.rdb
+*.rdx
+*.fdata
