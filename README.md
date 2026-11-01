@@ -14,8 +14,7 @@ O arquivo ZIP contém a pasta `PT-BR/romfs` pronta para instalação e um arquiv
 
 - 22.948 textos traduzidos, com as tags de controle preservadas.
 - 37 texturas com texto traduzidas, identificadas por OCR e revisão visual: tutoriais, menus, pedidos, carimbos, culinária, lojas, portão e avisos de minigame.
-- Tela de título com **PRESSIONE O BOTÃO Ⓐ** e o crédito **MOD feito por Lucasmelogs**.
-
+  
 ## Instalação no Eglantine / Eden
 
 1. Feche o jogo e o emulador.
